@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BirthdayWisher</string>
+    <string name="cake_description">Image of a Birthday Cake</string>
 </resources>
